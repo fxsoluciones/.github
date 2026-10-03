@@ -1,15 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fx-mark-ivory.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fx-mark-obsidian.svg">
-    <img src="./assets/fx-mark-obsidian.svg" alt="FX Soluciones Tech" width="112">
-  </picture>
-</p>
-
-<h1 align="center">FX Soluciones Tech</h1>
-
-<p align="center">
-  <strong>Primero vemos cómo funciona. Después construimos lo necesario.</strong>
+  <img src="./assets/fx-github-profile-header.png" alt="FX Soluciones Tech — Tecnología para operaciones reales. Primero vemos cómo funciona. Después construimos lo necesario." width="100%">
 </p>
 
 Somos una firma tecnológica de Santiago de Chile que trabaja con pymes y operaciones reales.
