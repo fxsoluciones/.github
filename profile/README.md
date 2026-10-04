@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="./assets/fx-github-profile-header.png" alt="FX Soluciones Tech — Tecnología para operaciones reales. Primero vemos cómo funciona. Después construimos lo necesario." width="100%">
+  <img src="./assets/fx-github-profile-header.png" alt="FX Soluciones Tech — tecnología para operaciones reales." width="100%">
 </p>
 
-Somos una firma tecnológica de Santiago de Chile que trabaja con pymes y operaciones reales.
+# FX Soluciones Tech
 
-Observamos cómo ocurre el trabajo, documentamos dónde se produce la fricción y definimos con criterio si conviene mantener, comprar, integrar, automatizar o construir.
+**Tecnología a medida para operaciones reales.**
+
+Somos una firma tecnológica de Santiago de Chile. Observamos cómo ocurre el trabajo, identificamos dónde se produce la fricción y decidimos con criterio si conviene mantener, comprar, integrar, automatizar o construir.
+
+## Cómo trabajamos
+
+| Entender | Priorizar | Construir |
+| --- | --- | --- |
+| Conocemos el proceso, las personas y sus excepciones. | Elegimos la fricción que realmente vale la pena resolver. | Entregamos una solución trazable, mantenible y con continuidad. |
 
 ## Qué hacemos
 
@@ -13,19 +21,13 @@ Observamos cómo ocurre el trabajo, documentamos dónde se produce la fricción 
 - Automatización de procesos
 - Integraciones entre sistemas y APIs
 
-## Cómo trabajamos
-
-**Entendemos el proceso.** Conocemos a las personas, herramientas y excepciones que forman parte de la operación.
-
-**Priorizamos la fricción.** Identificamos los pasos manuales, errores y problemas de seguimiento que vale la pena resolver.
-
-**Definimos antes de construir.** Acordamos alcance, responsabilidades y criterios de entrega antes de cotizar e implementar.
-
 ## Nuestro estándar
 
-Decisiones trazables, propiedad clara de los datos, accesibilidad, privacidad, documentación y una ruta de continuidad para cada solución.
+Cada entrega se diseña con propiedad clara de los datos, acceso de mínimo privilegio, secretos fuera del navegador, decisiones trazables, accesibilidad, privacidad y una ruta de continuidad.
 
-Este repositorio reúne la identidad pública y los estándares compartidos de FX Soluciones Tech. Los proyectos de clientes se mantienen privados y separados según sus contratos y permisos.
+La seguridad es una puerta de entrega verificable, no una insignia ni una promesa absoluta.
+
+Los proyectos de clientes se mantienen privados y separados según sus contratos y permisos. Publicaremos recursos abiertos únicamente cuando tengan alcance, soporte y mantenimiento definidos.
 
 ---
 
